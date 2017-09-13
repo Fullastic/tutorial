@@ -1,8 +1,0 @@
-Den con khi cung hieu duoc lenh Git
-add: Dang ky thay doi trong index
-pull: Lấy nội dung của remote repository
-<<<<<<< HEAD
-#1: tutorial comment
-=======
-tutorial2 comment
->>>>>>> f7cbb04c4af94337dae2d990917cdc3a8e569680
