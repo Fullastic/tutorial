@@ -4,4 +4,4 @@ pull: Lấy nội dung của remote repository
 tutorial2 comment
 #1: tutorial comment
 2 Tutorial modified sample
-#2 Tutorial2 modified sample
+#2 Tutorial2 modified sampleFinish studying conflict #tutorial
