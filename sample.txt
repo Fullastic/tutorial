@@ -8,3 +8,5 @@ tutorial2 comment
 Finish studying conflict #tutorial
 Finish by tutorial2
 ------------------t2
+
+This change will be saved by stash
